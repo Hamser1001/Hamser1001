@@ -31,7 +31,7 @@ I’m currently building my skills in web development and exploring frameworks.
   &nbsp;
   <img alt="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   &nbsp;
-  <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /
+  <img alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </p>
 
 
