@@ -1,9 +1,11 @@
 # Hamza Serhani
 
-**UX/UI Designer | Self-Taught IT Learner**
+**Web Developer (in progress)**
 
-Hi, I’m Hamza! A self-taught learner with a passion for technology and programming.  
-I’m currently building my skills in web development and exploring frameworks.
+Hi, I’m Hamza, a career-transitioning Web Developer with a strong background in UX/UI Design.
+I build web applications with a focus on clean code, usability, and real user needs.
+
+I’m currently deepening my skills in full-stack web development, turning ideas into functional, maintainable, and user-friendly software.
 
 
 <p align="left">
