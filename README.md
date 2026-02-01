@@ -2,7 +2,7 @@
 
 **Web Developer (in progress)**
 
-Hi, I’m Hamza, a career-transitioning Web Developer with a strong background in UX/UI Design.
+Hi, I’m Hamza, a career-transitioning Web Developer with a strong background in UX/UI & Graphic Design.
 I build web applications with a focus on clean code, usability, and real user needs.
 
 I’m currently deepening my skills in full-stack web development, turning ideas into functional, maintainable, and user-friendly software.
