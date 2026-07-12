@@ -40,6 +40,12 @@ I’m currently deepening my skills in full-stack web development, turning ideas
   <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   &nbsp;
   <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  &nbsp;
+<img
+  alt="React"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+/>
 </p>
 
 
